@@ -1,0 +1,126 @@
+
+<!----<html>
+    <head>
+        <title><this my first experment</title>
+    </head>>
+
+        <body>
+<p>
+    <h1>hello world</h1>
+    what is world and the who am i
+</p>
+
+        </body>
+    
+</html>------>
+<html>
+    <head>
+        <style>
+            table,th,td {
+                border:5px solid brown;
+                text-align: center;
+            }
+        </style>
+        <title>this is ganesh</title>
+    </head>
+    <body> 
+        <h1>start</h1>
+        <P> <i>hi</i>hello world this is<mark> ganesh babu </mark>how r u iam learning <u>HTML</u></P>
+        <ul><b>lets start</b>hi
+            <br>hello</br>
+            how
+        </ul>
+        <def>smile=to make every one lugue</def>
+        <dt>hello</dt>
+        <img src="img_445-00x00.jpg"alt=picture on wall,width="60"height="60">
+        <a href="https://www.google.com">visit picture</a>
+        <p>title="i am  learning html">iam learning w3 schools</p>
+        <button onclick="alert('visit the pricture')">click me</button>
+        botton{
+            background-colour :green;
+            colour : blue;
+            border : 5px solid #4CAF5
+        botton
+        }
+        <input type="text box",textfiled="username">
+        <input type="text box",textfiled="pawsword">
+        <input type="text box",textfiled="username"onfocus="alert('on focus')"> 
+        <input type="text"onpast="alert('on past')">
+        <input type="text"oncopy="alert('oncopy')">
+        <table style="width : 100%">
+            <tr>
+                <td>id</td>
+                <td>name</td>
+                <td>number</td>
+                <td>Email id</td>
+                <td>loaction</td>
+                <td colspan="2">address</td>
+                <td>home</td>
+            </tr>
+            <tr>
+                <td stly="background-colour:tomato">1234</td>
+                <td>xyz</td>
+                <td>12346789</td>
+                <td>xyz@email.com</td>
+                <td>hyd</td>
+                <td>pg hostal</td>
+                <td>home</td>
+                <td><a target="_blank" href="https://www.google.com">go to home</a></td>
+            </tr>
+            <tr>
+            <td>465</td>
+            <td>abc</td>
+            <td>678900098</td>
+            <td>abc@gmail.com</td>
+            <td>kkd</td>
+            <td>home</td>
+            <td>pg hostal</td>
+            <td><a href="https://www.google.com">go to home</a></td>
+                
+            </tr>
+
+        </table>
+        <form>
+            <label>username</label><input type="text"><br></br>
+            <label>password</label><input type="text"><br></br>
+            <label>Email</label><input type="text"><br></br>
+            <label>descrpation</label><textarea></textarea><br></br>
+            <label>Resume</label><input type="file" multiple><br></br>
+            <lable>Gender</lable><input type="radio"name="Gender">male
+            <input type="radio"name="Gender">female
+            <input type="radio"name="Gender">trance gender
+            <br></br>
+            <input type="date">date of birth
+            <br></br>
+
+            <select>
+                <option>select one of this</option>
+                <option> hyd</option>
+                <option>banglore</option>
+                <option>chinni</option>
+                <option>delhi</option>
+                <option>kkd</option>
+            </select><br></br>
+            <input type="checkbox">I agree the terms and conditions<br></br>
+            <br></br>
+            <button>submit</button><br></br>  
+        </form>
+        <ul style="list - style-type: square">
+            <h4>stationary items</h4>
+            <li>book</li>
+            <li>pen</li>
+            <li>laptop</li>
+            <li>system</li>
+            <li>excution</li>
+        </ul>
+        <ol>
+            <li>book</li>
+            <li>laptop</li>
+            <li>pen</li>
+            <li>system</li>
+            <li>excution</li>
+        </ol>
+    </body>
+
+</html>
+\\
